@@ -3,7 +3,7 @@
 
 A full-stack photo-sharing social media app that enables users to post photos & comment on posts.
 
-**Link to project:** https://pictogram.cyclic.app
+https://github.com/valerievozza/pictogram
 
 ![pictogram](https://user-images.githubusercontent.com/101529105/195208048-b48bc942-e8bd-4cd7-86e8-9c873c1e98c2.png)
 
@@ -51,16 +51,17 @@ To run this project, you will need to add the following environment variables to
 ## Other Examples of My Work
 
 ### Mailroom
-https://mailroom.cyclic.app
 
 ![mailroom](https://user-images.githubusercontent.com/101529105/195208240-49e71fff-53c6-4d92-86ca-79dc31daccc2.png)
+https://github.com/valerievozza/mailroom
 
 ### Pocket
-https://pocket.cyclic.app
 
 ![pocket](https://user-images.githubusercontent.com/101529105/195208290-07a5521d-bc47-40a1-9afb-8db5ed959bb8.png)
+https://github.com/valerievozza/pocket
 
 ### myPetPal
-https://mypetpal.onrender.com
 
 ![myPetPal](https://user-images.githubusercontent.com/101529105/195208309-45fa413f-58e7-4edc-852c-47d9478b4718.png)
+https://mypetpal.onrender.com
+
